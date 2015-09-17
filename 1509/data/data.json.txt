@@ -1,0 +1,5 @@
+﻿{
+  "srcGeneralData": {
+    "sMTKWebDomain": "http://xdataprocess.duapp.com/mtks/1401/"
+  }
+}

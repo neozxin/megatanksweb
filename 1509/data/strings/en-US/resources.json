@@ -1,0 +1,195 @@
+﻿{
+    "纯粹注释：添加后面值至第一行将变为JS File":"XinSDK.myMGAJSONLangtxts=//删除该行将成为真正的JSON File",
+
+    "`xxx/megatanks_bo`"
+	:"..\/images\/megatanks_bo-EN.png",
+
+    "`xxx/megatanks_gmbg`"
+	:"..\/images\/megatanks_gmbg-EN.png",
+
+    "`xxx/megatanks_mnbg`"
+	:"..\/images\/megatanks_mnbg-EN.png",
+
+    "`xxx/megatanks_gmclrbg`"
+	:"..\/images\/megatanks_gmclrbg-EN.png",
+
+    "`数据上传中...`"
+	:"Data Uploading...",
+
+    "`上传数据失败: `"
+	:"DATA UPLOAD FAILED: ",
+
+    "`上传数据成功`"
+	:"DATA UPLOAD DONE",
+
+    "`尝试获取数据中...`"
+	:"Trying to obtain data...",
+
+    "`获取数据失败: `"
+	:"DATA DOWNLOAD FAILED: ",
+
+    "`服务器返回数据错误, 请稍后尝试...`"
+	:"Server Error, please try again later...",
+
+    "`网络不可用`"
+	:"Network Unavailable",
+
+    "`已选择放弃上传成绩`"
+	:"Score upload cancelled",
+
+    "`错误信息: `"
+	:"Error: ",
+
+    "`游戏键盘操作说明`"
+	:"Game Instructions",
+
+    "`玩家`"
+	:"Player",
+
+    "`上`"
+	:"Up",
+
+    "`下`"
+	:"Down",
+
+    "`左`"
+	:"Left",
+
+    "`右`"
+	:"Right",
+
+    "`开火`"
+	:"Fire",
+
+    "`游戏暂停`"
+	:"Pause",
+
+    "`玩家借命`"
+	:"Get help from another player",
+
+    "`注: `"
+	:"Note: ",
+
+    "`单人游戏时可使用屏幕上下方的虚拟摇杆进行操作，双人游戏将只能使用键盘操作`"
+	:"On-screen virtual keypad is available when playing single player games, otherwise you can only control with a physic keyboard.",
+
+    "`更改`"
+	:"Modify",
+
+    "`返回`"
+	:"Go Back",
+
+
+
+    "`最好成绩`"
+	:"BEST SCORE",
+
+    "`1人游戏`"
+	:"Single Player",
+
+    "`2人游戏`"
+	:"Two Players",
+
+    "`操作说明`"
+	:"Help",
+
+    "`By VillaX`"
+	:"By VillaX",
+
+    "`我的世界排名`"
+	:"My World Rank",
+
+    "`世界排名 - 最高得分榜`"
+	:"LeaderBoards - World Ranks",
+
+    "`排名`"
+	:"Rank",
+
+    "`成绩`"
+	:"Score",
+
+    "`我的排名：`"
+	:"My Rank: ",
+
+    "`无`"
+	:"None",
+
+
+
+    "`第`"
+	:"STAGE &nbsp;&nbsp; ",
+
+    "`关`"
+	:"&nbsp;",
+
+    "`关卡`"
+	:"STAGE",
+
+    "`将至敌军`"
+	:"ENEMIES",
+
+    "`分数`"
+	:"Score",
+
+    "`返回游戏`"
+	:"Resume Game",
+
+    "`退出游戏`"
+	:"Exit Game",
+
+    "`退出游戏？`"
+	:"Exit Game?",
+
+    "`确定要退出当前游戏吗？这将失去当前游戏的所有进度...`"
+	:"Are you sure you want to exit the game? You will lose your current progress...",
+
+    "`确定`"
+	:"Yes",
+
+    "`取消`"
+	:"No",
+
+    "`游戏失败`"
+	:"GAME OVER",
+
+
+
+    "`新纪录`"
+	:"NEW RECORD",
+
+    "`请在下面输入你的昵称将成绩上传至世界排名榜.`"
+	:"Please type your nickname to upload the score.",
+
+    "`昵称只能使用 xxx 中的字符`"
+	:"Nickname can only use characters from \"A(a)\"-\"Z(z)\", \"0\"-\"9\" or \"_\" ",
+
+    "`上传`"
+	:"Upload",
+
+    "`放弃`"
+	:"Cancel",
+
+
+
+    "`得分`"
+	:"Pts",
+
+
+
+
+    "s最近"										: "Recent",
+
+    "s远程控制"									: "Remote Control",
+
+    "s一键连接"									: "One click connection",
+
+
+    "s一键点击连接至远程电脑"						: "One simple click to connect to your remote PC",
+
+    "s开启多个连接进程"							: "Multiple remote sessions",
+
+    "s在本地同时控制多部远程电脑"					: "Simultaneous control of multiple remote PCs",
+
+
+    ""											: ""
+}
